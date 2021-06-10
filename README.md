@@ -40,7 +40,7 @@
 
 3. 机器学习（西瓜书）
 
-4. 学习写论文（）
+4. 学习写论文（[(必读)刘洋老师教学写论文PDF](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)）
 
 ## 3、各类工具网站分享
 ### ✨日常追论文新番：
@@ -48,7 +48,7 @@
 
 2. dblp适合论文搜索和引用查找
 
-3. [paperswithcode](https://www.paperswithcode.com)，热门sota项目文章（感谢小5）
+3. [paperswithcode](https://www.paperswithcode.com)，热门sota项目文章以及对应的实现代码地址跳转（感谢小5）
 
 4. 公众号机器学习算法与自然语言处理、夕小瑶的卖萌屋（感谢刘博士推荐）
 
@@ -64,6 +64,8 @@
 2. 公众号call4papers（感谢大师兄推荐）
 
 3. [2021顶会时间表与网址](https://zhuanlan.zhihu.com/p/362484975)
+
+4. [各方向顶会倒计时网址](https://aideadlin.es)
 
 
 ### ✨研究生手续文件：
@@ -85,7 +87,7 @@
 
 2. [LATEX在线写：overleaf](https://www.overleaf.com)
 
-3. 画图五师兄推荐使用ppt功能强大+刘博士推荐《Python作图》书
+3. 画图使用ppt功能强大+刘博士推荐《Python作图》书
 
 ## 4、学渣个人经验分享（请非常谨慎参考，很多可能是错的）：
 
