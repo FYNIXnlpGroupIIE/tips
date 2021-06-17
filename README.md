@@ -79,6 +79,8 @@
 
 5. 学位论文国科大模板
 
+6. 开题报告、学位论文latex格式：https://github.com/mohuangrui/   （非官方，感谢殷荣推荐）
+
 ### ✨github上各类分享：
 1. FYNIX (lol)
 
